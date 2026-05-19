@@ -2,7 +2,7 @@
 	"name": "web",
 	"private": true,
 	"type": "module",
-	""scripts": {
+	"scripts": {
   "dev": "react-router dev",
   "build": "vite build",
   "start": "vite preview",
