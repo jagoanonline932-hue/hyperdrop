@@ -23,7 +23,7 @@ import {
   Cpu,
   Zap,
 } from "lucide-react";
-import Footer from "@/components/Footer";
+import Footer from "../components/Footer.jsx";
 
 const iconMap = {
   ShieldCheck,
